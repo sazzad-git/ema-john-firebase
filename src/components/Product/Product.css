@@ -1,0 +1,23 @@
+.product {
+    display: flex;
+    column-gap: 20px;
+    border-bottom: 1px solid lightgray;
+    padding-bottom: 5px;
+}
+
+.product-name {
+    font-weight: 400;
+    color: blue;
+}
+
+.btn-common {
+    background-color: goldenrod;
+    width: 150px;
+    height: 25px;
+    border: 1px solid gray;
+    border-radius: 5px;
+    cursor: pointer;
+}
+.icon-color{
+    color: gold;
+}
